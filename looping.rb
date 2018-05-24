@@ -1,5 +1,6 @@
 def looping
-	#your code here
+	puts "swish and flick"
 end
 
 #call your method here
+looping
